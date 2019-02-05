@@ -1,0 +1,22 @@
+# python bytecode
+__pycache__
+*.pyc
+
+# vim files
+*.swp
+*.swo
+
+# Jetbrains
+.idea/
+
+# Coverage
+html-coverage/
+.coverage
+
+# Temp files
+logs/
+static/
+*.sqlite3
+
+# Sensitive files
+*.env

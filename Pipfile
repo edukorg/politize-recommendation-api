@@ -1,0 +1,11 @@
+[packages]
+djangorestframework = ">=3,<4"
+dj-database-url = ">=0.1,<1"
+psycopg2-binary = ">=2,<3"
+Django = ">=2,<3"
+
+[dev-packages]
+flake8 = ">=3,<4"
+
+[requires]
+python_version = "3.6"
